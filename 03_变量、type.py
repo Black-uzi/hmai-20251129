@@ -20,3 +20,6 @@ print(type("123"))
 print(type(1))
 print(type(1.1))
 
+print("---")
+name_type = type("123")
+print(name_type)
